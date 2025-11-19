@@ -1,13 +1,21 @@
 # Mega.nz download bot
 
 
-![logo](https://te.legra.ph/file/477e9263207c4227b8b88-50f9e301ae9078c7f2.jpg)
+![logo](https://envs.sh/-ud.jpg)
 
 
 
 
 ##### A simple mega.nz download bot repo only support single files not support folder 
 
+
+
+# ⚠️ SECURITY WARNING
+
+This is a **public project** — if you fork it and push your bot’s credentials,  
+**everyone can see your secrets** (including your `BOT_TOKEN`, `API_HASH`, or `cookies.txt`).
+
+> Use **Heroku Config Vars**, `.env`, or private forks to keep your credentials safe.  
 
 ### Bot Commands 
 ```
