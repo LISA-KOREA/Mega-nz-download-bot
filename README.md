@@ -1,7 +1,7 @@
 # Mega.nz download bot
 
 
-![logo](https://envs.sh/-ud.jpg)
+![logo](https://ibb.co/Kjx0t6Cv)
 
 
 
