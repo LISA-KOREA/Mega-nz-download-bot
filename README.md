@@ -1,7 +1,7 @@
 # Mega.nz download bot
 
 
-![logo](https://img.sanishtech.com/u/342090a91c7a3d2e684102c1e5ff73aa.jpg)
+![logo]()
 
 
 
