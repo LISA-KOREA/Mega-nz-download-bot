@@ -1,7 +1,9 @@
 # Mega.nz download bot
 
 
-![logo]()
+<p align="center">
+  <img src="Logo.JPG" width="600"/>
+</p>
 
 
 
